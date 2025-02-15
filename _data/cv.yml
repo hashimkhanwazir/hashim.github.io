@@ -2,17 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hashim Khan
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th January 1886
     - name: Languages
-      value: English, German
+      value: English, German, Urdu, Pashto
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+      institution: Paderborn University, Paderborn, Germany
       year: 1905
       description:
         - Description 1.

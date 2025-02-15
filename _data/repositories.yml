@@ -1,14 +1,17 @@
 github_users:
-  - torvalds
+  - hashimkhanwazir
+  - dice-group
   - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
+  - hashimkhanwazir/sentiment_analysis_X
   - jekyll/jekyll
-  - twbs/bootstrap
+  - dice-group/RDF-Triplestores-Evaluation
   - jquery/jquery
   - FortAwesome/Font-Awesome
   - mathjax/MathJax
   - jpswalsh/academicons
+  - dice-group/Analysing-SPARQL-Interfaces
+  - hashimkhanwazir/world_bank_API_usage
